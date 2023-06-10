@@ -1,0 +1,212 @@
+.Title {
+    max-width: 100px; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the title horizontally */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+	width: fit-content;
+}
+.body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	padding-top: 70px;
+	background-image: url(https://ugamusic.ug/storage/image_cover/Alone%20by%20Philly%20Lutaaya_1605514605.jpg);
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+	color: antiquewhite;
+.jumbotron {
+	color: white !important;
+	background:url(http://blog.erosnow.com/wp-content/uploads/2014/03/Best-top-desktop-abstract-pattern-wallpapers-hd-wallpaper-pattern-pictures-and-images-50.jpg); !important;
+	text-align: center;
+	text-shadow: 0px 0px 3px rgba(255,255,255,0.3),
+				 0px 4px 3px rgba(0,0,0,0.4),
+             	 0px 8px 13px rgba(0,0,0,0.1),
+             	 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.thumbnail {
+	background-color: #CFD8DC !important;
+	border: 2px solid black !important;
+
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif !important;
+	font-size: 100px !important;
+}
+
+#Albums {
+	padding-bottom: 11px;
+	font-family: 'source-sans-pro' , sans-serif;
+}
+h2 {
+	font-family: 'Raleway', sans-serif !important;
+	font-size: 100px !important;
+
+.well {
+	border: 2px solid black !important;
+	background:url(http://htc-.com/wp-content/uploads/2015/06/Paper-pattern.jpg) !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	font-size: 21px;
+	font-weight: 120px;
+	font-family: 'Cuprum', sans-serif;
+}
+#facts {
+	text-align: center;
+	padding-top: 15px;
+	font-family: 'Kreon', serif !important;	
+}
+
+#tribute {
+	font-family: 'Kreon', serif !important;	
+	
+	font-size: 47px !important;
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif !important;
+	padding-left: 16px;
+	padding-bottom: 1px;
+	font-size: 40px !important;
+	font-weight: 80px !important;
+}
+
+#about {
+	padding-left: 80% !important;
+}
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+hr.style-two {
+	border-top: 3px double #8c8b8b;
+}
+
+.caption {
+	font-size: 21px;
+	font-family: 'Kreon', serif;
+}
+
+.header {
+	font-size: 21px;
+	font-family: 'Kreon', serif;
+}
+
+#wiki {
+	border:2px solid white;
+    margin-top: 40px;
+    background-image: url(http://p1.pichost.me/i/71/1957191.jpg);
+    background-repeat: no-repeat !important;
+	background-size: cover !important;
+	color: white;
+	text-shadow: 0px 0px 3px rgba(255,255,255,0.3),
+				 0px 4px 3px rgba(0,0,0,0.4),
+             	 0px 8px 13px rgba(0,0,0,0.1),
+             	 0px 18px 23px rgba(0,0,0,0.1);
+	font-family: 'Raleway', sans-serif !important;
+	text-align: center;
+	font-size: 37px;
+	font-weight: 40px;
+}
+
+#code {
+	font-size: 20px;
+	border:2px solid white;
+	background: #FFF5EB;
+	width: 25%;
+	border-radius: 5px;
+	text-align: center;
+	font-family: 'Kreon', serif;
+}
+
+h3 {
+	font-size: 30px !important;
+	font-weight: 40px !important;
+	padding-top: 10px;
+    color: antiquewhite;
+}
+/* Add colors to the navigation bar */
+.navbar {
+	background-color: #333; /* Set the background color */
+  }
+  
+  .navbar-brand {
+	color: #fff; /* Set the text color */
+  }
+  
+  .navbar-nav li a {
+	color: #fff; /* Set the link text color */
+  }
+  
+  .navbar-nav li a:hover {
+	color: #ff0; /* Set the link text color on hover */
+	content-visibility: auto;
+  }
+  
+  /* Add colors to the header */
+  .header {
+	background-color: #f2f2f2; /* Set the background color */
+  }
+  
+  .Title {
+	color: #333; /* Set the text color */
+  }
+  
+  /* Add colors to the sections */
+  .container {
+	background-color: #fff; /* Set the background color */
+	color: #333; /* Set the text color */
+  }
+  
+  .page-header {
+	color: #333; /* Set the text color */
+  }
+  
+  .Facts {
+	color: #333; /* Set the text color */
+  }
+  
+  .well {
+	background-color: #f5f5f5; /* Set the background color */
+	border-color: #ccc; /* Set the border color */
+  }
+  
+  .well h4,
+  .well h5,
+  .well p {
+	color: #333; /* Set the text color */
+	width: auto;
+  }
+  
+  .well ul {
+	color: #333; /* Set the list item text color */
+	background-attachment: fixed;
+  }
+  
+  /* Add colors to the buttons */
+  .btn {
+	background-color: #333; /* Set the background color */
+	color: #fff; /* Set the text color */
+  }
+  
+  .btn:hover {
+	background-color: #ff0; /* Set the background color on hover */
+
+  }
+  :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
